@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "32923015023",
+    "firebase_url": "https://jobfindingapp-9a435-default-rtdb.firebaseio.com",
+    "project_id": "jobfindingapp-9a435",
+    "storage_bucket": "jobfindingapp-9a435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32923015023:android:33be2a85c69e4f3768fa9a",
+        "android_client_info": {
+          "package_name": "com.example.jobfinderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckxyTnjVKM6DtMa772X5lU_35Xo7pqqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32923015023:android:e16fc3d5acfdbeda68fa9a",
+        "android_client_info": {
+          "package_name": "com.example.jobsearch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckxyTnjVKM6DtMa772X5lU_35Xo7pqqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

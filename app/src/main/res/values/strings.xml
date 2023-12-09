@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Job Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="array">
+        <item>5k-10k</item>
+        <item>10k-30k</item>
+        <item>30k-50k</item>
+        <item>50k-1lac</item>
+    </string-array>
+</resources>
